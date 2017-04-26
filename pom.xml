@@ -15,4 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <server>
+<id>deployment</id>
+<username>deployment</username>
+<password>deployment123</password>
+</server>
 </project>
